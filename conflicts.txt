@@ -1,0 +1,14 @@
+manjaro-pulse
+pulseaudio-alsa
+pulseaudio-bluetooth
+pulseaudio-ctl
+pulseaudio-lirc
+pulseaudio-rtp
+pulseaudio-zeroconf
+pulseaudio-jack
+audacious
+xfce4-terminal
+thunderbird
+catfish
+libpamac-snap-plugin
+snapd

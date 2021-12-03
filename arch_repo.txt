@@ -1,0 +1,17 @@
+pipewire-pulse
+pipewire-alsa
+nodejs-lts-gallium
+npm
+postgresql
+yay
+zsh
+chromium
+base-devel
+discord
+godot
+code
+neofetch
+cmatrix
+terminator
+wine-staging
+lutris
